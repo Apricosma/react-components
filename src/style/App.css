@@ -118,14 +118,14 @@ Header {
 }
 
 .gallery {
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   /* margin-top: 75px; */
-  padding: 125px;
+  padding: 100px;
 }
 
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 10px;
 }
