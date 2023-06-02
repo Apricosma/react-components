@@ -78,6 +78,6 @@ input[type=button], input[type=submit], input[type=reset], button, a {
 }
 
 .container {
-  width: min(100% - 30px, 1080px);
+  width: min(100% - 30px, 1280px);
   margin-inline: auto;
 }
