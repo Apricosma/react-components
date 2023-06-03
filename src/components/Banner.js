@@ -10,11 +10,11 @@ function Banner(props) {
                     <p className='banner-content'>{props.bannerContent}</p>
                     <div className='banner-buttons'>
                         <Button
-                            name='Primary'
+                            name='Go NexT'
                             isPrimary={true}
                         />
                         <Button
-                            name='secondary'
+                            name='Join Us'
                             isPrimary={false}
                         />
                     </div>
