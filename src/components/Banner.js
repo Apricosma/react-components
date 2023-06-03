@@ -14,7 +14,7 @@ function Banner(props) {
                             isPrimary={true}
                         />
                         <Button
-                            name='Join Us'
+                            name='More..'
                             isPrimary={false}
                         />
                     </div>

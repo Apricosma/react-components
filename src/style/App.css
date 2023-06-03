@@ -85,7 +85,13 @@ Header {
   border-radius: 5px;
   padding: 10px 35px;
   min-width: 185px;
+  cursor: pointer;
   box-shadow: var(--box-shadow);
+  transition: box-shadow 0.3s ease;
+}
+
+.banner-buttons button:hover {
+  box-shadow: 0 0 10px 1px var(--color-primary);
 }
 
 .banner-buttons .button-primary {

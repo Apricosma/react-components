@@ -18,7 +18,7 @@ function App() {
         'https://files.catbox.moe/zz7vd2.jpg',
 	];
 
-	const footerList = ['Home', 'About', 'Contact', 'Support'];
+	const footerList = ['Home', 'About', 'Contact', 'Support', 'Schedule', 'Opportunity', 'Emergency'];
 
 	return (
 		<div className="App">
