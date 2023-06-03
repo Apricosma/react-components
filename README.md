@@ -2,6 +2,7 @@
 
 This is a concept project built for the sake of learning React components. NexTronix is not a real
 company. 
+
 [You can find the website by clicking here](https://apricosma.github.io/react-components/)
 
 ## Getting Started with Create React App
